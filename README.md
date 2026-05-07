@@ -42,7 +42,6 @@ Passionate about Artificial Intelligence, Machine Learning, NLP, Data Science, a
   - AI Chatbots
   - Validation & Evaluation Systems
   - Data Processing Pipelines
-- 🎯 Goal: Becoming a skilled AI Engineer & pursuing a fully funded PhD in AI/ML research
 - 📫 Reach me at: **hafsasultana1720@gmail.com**
 
 ---
