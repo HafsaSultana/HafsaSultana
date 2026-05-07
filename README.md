@@ -1,5 +1,5 @@
 <!-- Main Title -->
-<h1 align="center">Hi 👋, I'm Hafsa Sultana</h1>
+<h1 align="center">Hello 👋, I'm Hafsa Sultana</h1>
 <!-- Sub-title -->
 <h3 align="center">A passionate Python, Machine Learning, AI, and Data Science Learner.</h3>
 
