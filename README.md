@@ -125,10 +125,11 @@ I believe the best AI isn't just technically impressive — it's useful, explain
 ## 📊 GitHub Analytics
 
 <div align="center">
-
+<!--
 <img height="175em" src="https://github-readme-stats.vercel.app/api?username=hafsasultana&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9" />
-<img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hafsasultana&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=a78bfa&text_color=c9d1d9" />
 
+<img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hafsasultana&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=a78bfa&text_color=c9d1d9" />
+-->
 <br/>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=hafsasultana&theme=tokyonight&hide_border=true&background=0D1117&stroke=7c3aed&ring=a78bfa&fire=FF6B6B&currStreakLabel=a78bfa" />
@@ -166,7 +167,7 @@ I believe the best AI isn't just technically impressive — it's useful, explain
 
 <div align="center">
 
-| 🔗 Platform | 🚀 Link |
+|  Platform |  Link |
 |:-----------:|:-------:|
 | 💼 LinkedIn | [hafsa-sultana17](https://linkedin.com/in/hafsa-sultana17) |
 | 📧 Email | [hafsasultana1720@gmail.com](mailto:hafsasultana1720@gmail.com) |
